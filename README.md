@@ -1,12 +1,101 @@
-# React + Vite
+📚 Lawyer Appointment Booking Web Application
+A simple, clean, and fully functional Lawyer Appointment Booking application built with React, Vite, Tailwind CSS, and deployed on Netlify.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 Live Website: <a href="https://glittering-pegasus-404c8b.netlify.app/">Visit Now </a>
+🚀 Features
+🧭 Navbar and Footer present on all pages (except 404 page)
 
-Currently, two official plugins are available:
+🎯 Homepage with:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Hero Banner
 
-## Expanding the ESLint configuration
+Display 6 Lawyers initially
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+"Show All" button to load 12 Lawyers
+
+Success Stats Section with animated counters
+
+⚖️ Lawyers Section
+
+Each Lawyer card shows Name, Image, Experience, License Number, Speciality
+
+View Details button to see full profile
+
+👨‍⚖️ Lawyer Details Page
+
+Profile Details including Availability
+
+Booking Card with Booking Logic (localStorage-based)
+
+🧾 Booking System
+
+Book appointment (with success toast)
+
+Prevent duplicate booking
+
+Cancel appointment (with success toast)
+
+Appointments persist after reload (localStorage)
+
+📅 Bookings Page
+
+List of booked appointments
+
+Fee visualization using Recharts
+
+Cancel button removes booking and updates chart
+
+📚 Blogs Page
+
+5 blog articles about core React concepts (useState, useEffect, custom hook, controlled vs uncontrolled components, useFormStatus)
+
+❌ 404 Error Page
+
+Custom error page on invalid routes
+
+Navbar present, Footer hidden
+
+🔄 Loading Animations
+
+Loading spinner on route changes and data fetches
+
+🌍 Single Page Application (SPA)
+
+Client-side routing handled using React Router
+
+SPA fallback (_redirects file used)
+
+🛠️ Tech Stack
+React (with Hooks and Functional Components)
+
+React Router DOM (for routing)
+
+Vite (for fast bundling)
+
+Tailwind CSS (for responsive, utility-first styling)
+
+Recharts (for Appointment Fees BarChart)
+
+React Toastify (for success and error notifications)
+
+React CountUp (for counting animations)
+
+LocalStorage (to save appointments data)
+
+Netlify (for live deployment)
+
+📂 Folder Structure Overview
+plaintext
+Copy
+Edit
+/src
+  /assets        # Static images, logos
+  /components    # Navbar, Footer, Spinner Loader etc
+  /pages         # Home, Blogs, MyAppointments, LawyerDetails, ErrorPage
+/public
+  lawyers.json   # Static lawyer data
+  CNAME          # (optional if using custom domain)
+
+
+🧡 Thank you for visiting!
+Built with passion for learning and improving React skills.
