@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Awlad Hossain",
+    "speciality": "Criminal Expert",
+    "experience": 5,
+    "license": "BD 12451254",
+    "fee": 5000,
+    "availableDays": ["Sunday", "Monday", "Thursday"],
+    "image": "awlad.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Arif Rahman",
+    "speciality": "Family Law",
+    "experience": 7,
+    "license": "BD 22334455",
+    "fee": 7000,
+    "availableDays": ["Saturday", "Monday", "Wednesday"],
+    "image": "arif.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Nafisa Ahmed",
+    "speciality": "Corporate Law",
+    "experience": 10,
+    "license": "BD 33557799",
+    "fee": 3000,
+    "availableDays": ["Sunday", "Tuesday", "Thursday"],
+    "image": "nafisa.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Kamal Uddin",
+    "speciality": "Tax Law",
+    "experience": 8,
+    "license": "BD 44665588",
+    "fee": 2000,
+    "availableDays": ["Monday", "Wednesday", "Friday"],
+    "image": "kamal.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Sabrina Khan",
+    "speciality": "Property Law",
+    "experience": 6,
+    "license": "BD 55889977",
+    "fee": 6000,
+    "availableDays": ["Saturday", "Tuesday", "Thursday"],
+    "image": "kamal.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Jahangir Alam",
+    "speciality": "Civil Law",
+    "experience": 12,
+    "license": "BD 66223344",
+    "fee": 3200,
+    "availableDays": ["Sunday", "Wednesday", "Friday"],
+    "image": "jahangir.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Rabeya Begum",
+    "speciality": "Labor Law",
+    "experience": 9,
+    "license": "BD 77889900",
+    "fee": 2900,
+    "availableDays": ["Saturday", "Monday", "Friday"],
+    "image": "rabeya.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Farhan Siddique",
+    "speciality": "Immigration Law",
+    "experience": 5,
+    "license": "BD 88112233",
+    "fee": 2600,
+    "availableDays": ["Sunday", "Tuesday", "Thursday"],
+    "image": "farhan.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tania Islam",
+    "speciality": "Human Rights",
+    "experience": 11,
+    "license": "BD 99445566",
+    "fee": 8000,
+    "availableDays": ["Monday", "Wednesday", "Friday"],
+    "image": "tania.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Omar Faruq",
+    "speciality": "Criminal Expert",
+    "experience": 8,
+    "license": "BD 10203040",
+    "fee": 2750,
+    "availableDays": ["Saturday", "Tuesday", "Thursday"],
+    "image": "omar.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Jashim khan",
+    "speciality": "Family Law",
+    "experience": 6,
+    "license": "BD 11223344",
+    "fee": 2400,
+    "availableDays": ["Sunday", "Wednesday", "Friday"],
+    "image": "Jashim.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Rafiqul Islam",
+    "speciality": "Constitutional Law",
+    "experience": 15,
+    "license": "BD 12131415",
+    "fee": 4000,
+    "availableDays": ["Saturday", "Monday", "Thursday"],
+    "image": "Rafiqul.jpg"
+  }
+]
