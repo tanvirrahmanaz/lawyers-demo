@@ -55,6 +55,3 @@ A simple, clean, and fully functional **Lawyer Appointment Booking** application
 - **Netlify** (for live deployment)
 
 ---
-
-## 📂 Folder Structure Overview
-
